@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Lương Đức Mạnh
+# Hi 👋, I'm Đức Mạnh
 
 ### Java Backend Developer Intern
 
